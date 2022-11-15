@@ -78,4 +78,3 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
