@@ -1,6 +1,3 @@
-<!--
-**Vidhish-Trivedi/Vidhish-Trivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Vidhish  
   
 
@@ -76,5 +73,3 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 </div>  
 
 <br />
-
-----
