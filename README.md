@@ -10,6 +10,9 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 - 💻 I’m interested in software development, web development and AI/ML.  
   
 
+- 🕸 My Website: https://vidhish-trivedi.github.io/Portfolio-Website/
+
+
 - ⚡ Fun fact: I use tabs over spaces  
   
 
