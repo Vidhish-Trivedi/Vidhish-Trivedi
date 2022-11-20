@@ -59,11 +59,13 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 ## Github Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)  
+<div><img src="https://github-readme-stats.vercel.app/api?username=Vidhish-Trivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)   -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
+<p> 
   Visitors(from Nov 15, 2022):<br>
   <img src="https://profile-counter.glitch.me/Vidhish-Trivedi/count.svg" />
 </p>
