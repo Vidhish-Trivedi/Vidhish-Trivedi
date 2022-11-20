@@ -32,7 +32,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 <br/>  
 
-## Things I've Worked With  
+## I've Worked With  
   
 
 <div align="center" style="width = 80%">  
@@ -64,6 +64,9 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)   -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vidhish-Trivedi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <p> 
   Visitors(from Nov 15, 2022):<br>
