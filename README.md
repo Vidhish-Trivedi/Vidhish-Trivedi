@@ -30,7 +30,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 - Member, [ComputX](https://stunning-hamster-ccbf28.netlify.app/)  
 
 
-- Core Member, Design team [TEDx-IIITB](https://www.tedxiiitbangalore.in/)  
+- Core Member, Design team, [TEDx-IIITB](https://www.tedxiiitbangalore.in/)  
   
 
 <br/>  
