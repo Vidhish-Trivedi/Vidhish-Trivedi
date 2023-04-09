@@ -73,7 +73,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=Vidhish-Trivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)   -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
 
