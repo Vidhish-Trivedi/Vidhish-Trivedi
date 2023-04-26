@@ -15,6 +15,8 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+ 
+- 💻 I am currently working on a project using Spring jdbcTemplate and Java, and also on another project written in C.
 
 <br/>  
 
