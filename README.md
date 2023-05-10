@@ -23,7 +23,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 ## Current Roles  
   
 
-- Developer, [Zense](https://zense.co.in/)  
+- Developer, Core Member [Zense](https://zense.co.in/)  
   
 
 - Core Member, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)  
