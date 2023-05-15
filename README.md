@@ -4,7 +4,7 @@
 I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interested to try out new technologies.  
   
 
-- 🎓 I’m currently in my second year.  
+- 🎓 I’ve just finished my second year of college.  
   
 
 - 💻 I’m interested in software development, web development and AI/ML.  
