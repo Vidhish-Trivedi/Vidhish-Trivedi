@@ -16,7 +16,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 - ⚡ Fun fact: I use tabs over spaces  
   
  
-- 💻 I am currently working on a project using Spring jdbcTemplate and Java, and also on another project written in C.
+- 💻 I am currently learning Go and exploring Flutter.
 
 <br/>  
 
@@ -70,14 +70,14 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 ## Github Stats  
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=Vidhish-Trivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<!-- <div><img src="https://github-readme-stats.vercel.app/api?username=Vidhish-Trivedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vidhish-Trivedi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Vidhish-Trivedi&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
 
 <p> 
   Visitors(from Nov 15, 2022):<br>
