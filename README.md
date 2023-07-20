@@ -4,7 +4,7 @@
 I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interested to try out new technologies.  
   
 
-- 🎓 I’ve just finished my second year of college.  
+- 🎓 I am currently in my third year of college.  
   
 
 - 💻 I’m interested in software development, web development and AI/ML.  
@@ -20,17 +20,14 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 <br/>  
 
-## Current Roles  
+## Roles  
   
 
 - Developer, Core Member [Zense](https://zense.co.in/)  
-  
 
-- Core Member, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)  
-  
+- Ex-Core Member, [GDSC-IIITB](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)  
 
 - Ex-Member, [ComputX](https://stunning-hamster-ccbf28.netlify.app/)  
-
 
 - Core Member, Design team, [TEDx-IIITB](https://www.tedxiiitbangalore.in/)  
   
