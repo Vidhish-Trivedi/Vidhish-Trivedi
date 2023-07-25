@@ -91,11 +91,11 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=Ecommerce-Management-DBMS)](https://github.com/Vidhish-Trivedi/Ecommerce-Management-DBMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=ServeIt)](https://github.com/Vidhish-Trivedi/ServeIt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=Expense-Tracker-FlutterBasics)](https://github.com/Vidhish-Trivedi/Expense-Tracker-FlutterBasics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=Topological-Persistence)](https://github.com/Vidhish-Trivedi/Topological-Persistence)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=Online-Retail-Store)](https://github.com/Vidhish-Trivedi/Online-Retail-Store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=Polls-On-Spring)](https://github.com/Vidhish-Trivedi/Polls-On-Spring)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vidhish-Trivedi&repo=TodoList-V2)](https://github.com/Vidhish-Trivedi/TodoList-V2)
 
 
 ## Github Stats  
