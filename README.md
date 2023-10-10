@@ -104,7 +104,7 @@ I am a CSE student at IIIT-Bangalore. I am an avid learner who is always interes
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&theme=tokyonight&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhish-Trivedi&theme=tokyonight&show_icons=true) -->
 
 <!-- ## 🏆GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Vidhish-Trivedi&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
